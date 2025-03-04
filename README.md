@@ -13,6 +13,8 @@ y un navegador web, por ejemplo: Google Chrome, Mozilla Firefox.
 
 ## Ejecutando la aplicación ⚙️
 
+#### Puedes jugar al amigo secreto en:  [Juego Amigo Secreto](https://juan-carlos-condori.github.io/challenge-amigo-secreto/) 
+
 * Abrir en el navegador el archivo index.html.
 * Ingresar nombres de amigos dando clik en: “AÑADIR” después de cada nombre ingresado.
 * Teniendo la lista completa de los nombres damos clik en: “SORTEAR AMIGO”.
